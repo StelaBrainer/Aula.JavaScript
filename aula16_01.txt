@@ -1,0 +1,19 @@
+prompt manda uma mensagem que queremos exibir pro usuario
+
+=== verifica se são identicos. Mesmo valor e mesmo tipo de dados
+== verifica se são iguais mesmo um sendo numero e um string
+
+
+quando fazemos A+B e ambos são tipo número, ele soma
+quando fazemos A+B e um deles é String, concatena numa String ambos os números
+
+A+ pasrseint(b) o parseint transforma o B de String para número inteiro
+A+ parsefloat(b) transforma em um número float
+Ou usando o Number também passa de String pra num.
+
+a função prompt recebe e retorna como String então antes do prompt colocar Number(prompt...)
+
+DOM usado para encontrar propriedades HTML em uma página.
+
+Ele define que os elementos HTML serão objetos(h1, item de lista etc) e esses objetos possuem propriedades e métodos
+
